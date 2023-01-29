@@ -1,4 +1,3 @@
-
 dcoded = ""
 with open("text.txt",'r') as t:
     for line in t:
