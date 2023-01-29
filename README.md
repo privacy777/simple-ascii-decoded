@@ -8,13 +8,6 @@ A python script that will decode every ascii letter in the file "text.txt" provi
 ## Features
 
 - Simplicity
-- Checker's setup (Title, Menu)
-- Combo & Proxy-list loading
-- Threading or Multiprocessing made easy
-- Makes main code easier to read and smaller.
-
-
-
 
 ## Authors
 
